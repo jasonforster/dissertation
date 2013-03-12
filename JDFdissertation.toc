@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Biomimetic Isotropic Structures}{5}
+\contentsline {section}{\numberline {2.1}Photonic Crystals}{5}
+\contentsline {section}{\numberline {2.2}Avian Inspiration}{8}
+\contentsline {section}{\numberline {2.3}Self-Assembly of an Isotropic Structure of Spheres}{15}
+\contentsline {section}{\numberline {2.4}Suppression of Multiple Scattering by Absorption}{20}
+\contentsline {chapter}{\numberline {3}Dumbbell Crystals}{28}
+\contentsline {section}{\numberline {3.1}Anisotropic Particles: Colloidal Molecules}{28}
+\contentsline {section}{\numberline {3.2}Dumbbells Crystallize Only Under Strong Confinement}{29}
+\contentsline {section}{\numberline {3.3}Electric-Field Assisted Crystallization}{31}
+\contentsline {section}{\numberline {3.4}Structural Properties of Dumbbell Crystals}{39}
+\contentsline {section}{\numberline {3.5}Photonic Properties of Dumbbell Crystals}{45}
+\contentsline {chapter}{\numberline {4}Conclusions and Future Work}{49}
+\contentsline {section}{\numberline {4.1}Isotropic Structural Color}{49}
+\contentsline {section}{\numberline {4.2}Dumbbell Crystals}{51}
+\contentsline {section}{\numberline {4.3}Beyond Photonics}{54}
+\contentsline {chapter}{\numberline {A}Polymer Colloid Synthesis}{59}
+\contentsline {section}{\numberline {A.1}Polystyrene Sulfonate Spheres}{60}
+\contentsline {section}{\numberline {A.2}Poly(styrene-co-TMSPA) Core-Shell Spheres}{61}
+\contentsline {section}{\numberline {A.3}Dumbbells}{65}

@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: JDFdissertation.aux
+The style file: unsrt.bst
+Database file #1: JDFdissertation.bib
+You've used 64 entries,
+            1791 wiz_defined-function locations,
+            876 strings with 15221 characters,
+and the built_in function-call counts, 15961 in all, are:
+= -- 1433
+> -- 766
+< -- 0
++ -- 280
+- -- 216
+* -- 1288
+:= -- 2596
+add.period$ -- 193
+call.type$ -- 64
+change.case$ -- 59
+chr.to.int$ -- 0
+cite$ -- 64
+duplicate$ -- 575
+empty$ -- 1500
+format.name$ -- 216
+if$ -- 3417
+int.to.chr$ -- 0
+int.to.str$ -- 64
+missing$ -- 68
+newline$ -- 324
+num.names$ -- 64
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 200
+stack$ -- 0
+substring$ -- 1488
+swap$ -- 64
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 157
+width$ -- 66
+write$ -- 703
